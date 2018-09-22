@@ -4,4 +4,4 @@ version=v1
 versionCode=1
 author=KilroyStyx
 description=Unhide WiFiBridge Switch in the Settings => Wireless & networks => Tethering & portable hotspot
-minMagisk=1500
+minMagisk=17000
